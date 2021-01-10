@@ -1,7 +1,7 @@
 {
   "name": "Google's Search",
   "component": true,
-  "license_url": "https://github.com/SidVal/discourse-google-search",
+  "license_url": "https://github.com/SidVal/discourse-google-search/blob/main/LICENSE",
   "about_url": "https://github.com/SidVal/discourse-google-search/readme.md",
   "authors": "SidV",
   "theme_version": 0.1,
