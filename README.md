@@ -1,6 +1,8 @@
 # Google's Search
 
->Beta testing for hide native discourse's search and show only Google's search
+>Beta testing for hide native discourse's search and show only Google's search.
+>
+> :information_source: [Official Meta's Topic](https://meta.discourse.org/t/175696?u=sidv)
 
 This component eliminates the ability for users to use Discourse's native search engine. Instead, they will use the search engine powered by Google, and it allows adding monetization through it.
 
@@ -35,4 +37,4 @@ My original idea is to remove the native Discourse search engine for anonymous a
 
 **This is a ALPHA / Beta version, please TEST it!** 
 
-You can tell me what do you think here on [issues section](https://github.com/SidVal/discourse-google-search/issues) :pray: 
+You can tell me what do you think here on [issues section](https://github.com/SidVal/discourse-google-search/issues) or [here on Discourse's meta](https://meta.discourse.org/t/175696?u=sidv) :pray: 
