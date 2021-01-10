@@ -4,7 +4,7 @@
 
 This component eliminates the ability for users to use Discourse's native search engine. Instead, they will use the search engine powered by Google, and it allows adding monetization through it.
 
-My original idea is to remove the native Discourse search engine for anonymous and users with TL1, while to the rest of the registered users, hide the new Google search engine and show them the native one.
+My original idea is to remove the native Discourse search engine for anonymous and users with TL0 - TL1, while to the rest of the registered users, hide the new Google search engine and show them the native one.
 
 ## Screenshot
 
@@ -25,7 +25,7 @@ My original idea is to remove the native Discourse search engine for anonymous a
 ## To Do
 
 - [ ] I wanted to put the search engine on the "`header`" section, however I couldn't find a way via CSS to place it inside the "`panel clearfix`" class. I'm sure someone on the forum can help out with this.
-- [ ] Conditional: if the user is anonymous or TL1, show the Google search engine. If not, show the native one (and hide the one from google)
+- [ ] Conditional: if the user is anonymous or TL0 or TL1, show the Google search engine. If not, show the native one (and hide the one from google)
 
 ### Features requested
 
