@@ -15,9 +15,8 @@ My original idea is to remove the native Discourse search engine for anonymous a
 1. Fork this repo first! _(Here with Github, you will need a Github free account)_
 1. Create new "Google's Search" [here](https://cse.google.com/cse/)
 1. Settings (your forum's URL it's a must)
-1. Copy and modify your [`head_tag.html`](https://github.com/SidVal/discourse-google-search/blob/main/common/head_tag.html) with the google's search code.
-1. Go to your forum's admin panel.
-1. Install the component. [How do I install a Theme or Theme Component?](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682?u=sidv)
+1. Edit and modify your [`head_tag.html`](https://github.com/SidVal/discourse-google-search/blob/main/common/head_tag.html) with the google's search code.
+1. Go to your forum's admin panel, and Install the component. [How do I install a Theme or Theme Component?](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682?u=sidv)
 1. Preview it.
 1. Test it.
 1. Enjoy!
