@@ -5,7 +5,7 @@ Beta testing for hide native discourse's search and show only Google's search
 
 ![Demo Screenshot](https://raw.githubusercontent.com/SidVal/www/master/files/img/screen1.png)
 
-## Before the installation
+## How To
 
 1. Fork this repo first! _(Here with Github, you will need a Github free account)_
 1. Create new "Google's Search" [here](https://cse.google.com/cse/)
