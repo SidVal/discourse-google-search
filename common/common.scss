@@ -5,12 +5,11 @@ div.panel ul.icons li:first-child {
 }
 
 #gcse {
-    //margin: 0 auto 15px auto;
-    //max-width: auto;
-    //text-align: center;
-    //background-color: aliceblue;
-    z-index: 1111;
-    position: absolute;
-    margin: 8px auto 0 360px;
-    max-width: 730px;
+    margin: auto;
+    max-width: 500px;
+    padding: 1px;
+    width: auto;
+    background-color: #0088cc;
+    border-style: inset;
+    border-color: #0088cc;
 }
